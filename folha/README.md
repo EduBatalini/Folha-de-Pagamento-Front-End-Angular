@@ -35,6 +35,7 @@ npm 9 ou superior
 
 Acesse a pasta do projeto:
 
+cd Folha-de-Pagamento-Front-End-Angular-main
 cd .\folha\
 
 
